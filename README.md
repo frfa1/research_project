@@ -5,7 +5,7 @@ This repository contains code for my MSc CS research project. The code focuses o
 ## To work with the repository
 
 1. Make two folders: models/KDDCUP2022_BERT and models/KDDCUP2022_GNN in the root where contents of the 3rd place and 11th place Githubs are placed.
-2. Put the official competition dataset in a new folder data/ in the root
+2. Put the official competition dataset in a new folder data/ in the root and in models/KDDCUP2022_BERT/data/raw
 
 Note that the code from the BERT and GNN models are highly modified. For example, Carbontracker is including during training of each model, and the GNN trains and forecasts only one of the two GNN architectures that they propose.
 
