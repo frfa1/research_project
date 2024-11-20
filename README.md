@@ -2,7 +2,7 @@
 
 This repository contains code for my MSc CS research project. The code focuses on a wind power dataset from the KDD CUP 2022, and it includes analysis of the 3rd place and 11th place of the competition. It is thus highly reliant of those repositories, which must be placed in the root folder.
 
-The goal of the project was to evaluate how much carbon the state-of-the-art deep learning models emit during training, and how this relates to the forecasting performance improvements that they bring.
+The goal of the project was to evaluate how much carbon the state-of-the-art deep learning models emit during training, and how this relates to the forecasting performance improvements that they bring. For more details, [read the report](https://github.com/frfa1/research_project/blob/main/report.pdf).
 
 ## To work with the repository
 
